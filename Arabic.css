@@ -1,0 +1,134 @@
+/* NAVIGATION BAR START */
+.navbar{
+    background-color: #000000 !important;
+}
+
+.nav-link{
+    color: white !important;
+    font-size: large;
+    font-weight: 600;
+    margin-left: 15px;
+}
+/* NAVIGATION BAR END */
+
+
+
+
+/* Start heading */
+.Arabicheading{
+    text-align: center;
+    margin-top: 22px;
+    text-decoration: underline;
+    font-family: Geneva;
+}
+.Arabicheading-style{
+    margin-top:20px;
+    background-color: black;
+
+}
+/* End heading */
+
+
+/* 1ST ROW */
+.containeer1{
+    margin-top:40px ;
+    text-align: center;
+    width: 80%;
+    height: 50%;
+    margin-left: 125px;
+}
+
+
+/* products recponcive */
+
+.card {
+    margin-top: 15px !important;
+    height: auto;
+
+}
+@media screen and (max-width: 480px) {
+    .card {
+        width: 100%;
+    }
+}
+
+
+
+
+
+
+
+/* 2ND ROW */
+.containeer2{
+
+    margin-top:40px ;
+    text-align: center;
+    width: 80%;
+    height: 50%;
+    margin-left: 125px;
+}
+
+
+
+
+
+
+
+
+
+/* 3RD ROW */
+.containeer3{
+    margin-top:40px ;
+    text-align: center;
+    width: 80%;
+    height: 50%;
+    margin-left: 125px;
+}
+
+
+/* footer start */
+
+    /* fb icon */
+.fb-ic{
+    margin-left: 80px;
+    }
+    
+    /* instagram icon */
+    .tw-ic {
+        /* margin-right: 15px; */
+        position: relative;
+        left:10px;
+    }
+    /* twitter icon */
+    .ins-ic{
+        /* margin-right: 15px; */
+       position:relative;
+      left:-18px;
+    }
+    
+    
+    /* google icon */
+    .gplus-ic{
+        position:relative;
+        left:58px;
+        
+    }
+    
+    /* inkedin icon */
+    .li-ic{
+        position:relative;
+        left: 75px;
+        
+    }
+    .footeredit{
+        margin-top: 40px;
+    }
+    .mb-0{
+        color: white;
+    }
+    .bootom{
+        background-color: black;
+        color: white;
+    }
+   
+    /* footer ends */

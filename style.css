@@ -1,0 +1,157 @@
+.navbar{
+    background-color: #000000 !important;
+}
+
+.nav-link{
+    color: white !important;
+    font-size: large;
+    font-weight: 600;
+    margin-left: 15px;
+}
+
+    /* giftbanner */
+.giftbanner{
+    margin-top: 20px;
+    text-align: center;
+}
+
+       /* UPCOMING PRODUCTS */
+ 
+     
+
+ .card{
+     width: 200px;
+     height: 200px;
+     margin-left: 40px;
+     text-align: center;
+ }
+ /* upcom Heading */
+ .upcomingheading{
+     text-align: center;
+     margin-bottom: 30px;
+     text-decoration: underline;
+     color: black;
+     font-family: Geneva;
+     margin-top: 40px;
+     margin-bottom: 20px;
+ }
+ .upcomheading-style{
+    margin-top:20px;
+    background-color: black;
+   
+ }
+ /* End Upcom heading */
+
+ /* OUR SIGNATURE COLLECTION */
+     
+.signaturecollectionheading{
+    text-align: center;
+     margin-bottom: 30px;
+     text-decoration: underline;
+     margin-top: 170px; 
+     font-family: Geneva;
+}
+.oursigheading-style{
+    margin-top:20px;
+    background-color: black;
+}
+
+/* Oursing Heading */
+
+    /* FOOTER  */
+
+    /* social networks [p] color */
+
+.page-footer font-small unique-color-dark{
+    margin-top: 200px;
+}
+.page-footer font{
+    margin-top: 200px;
+}
+.unique-color-dark{
+    margin-top: 400px;
+}
+
+.mb-0{
+    color: white;
+}
+
+/* bootom */
+.bootom{
+    background-color: black;
+    color: white;
+}
+
+/* fb icon */
+.fb-ic{
+margin-left: 80px;
+}
+
+/* instagram icon */
+.tw-ic {
+    /* margin-right: 15px; */
+    position: relative;
+    left:10px;
+}
+/* twitter icon */
+.ins-ic{
+    /* margin-right: 15px; */
+   position:relative;
+  left:-18px;
+}
+
+
+/* google icon */
+.gplus-ic{
+    position:relative;
+    left:58px;
+    
+}
+
+/* inkedin icon */
+.li-ic{
+    position:relative;
+    left: 75px;
+    
+}
+
+.col-md-3 col-lg-4 col-xl-3 mx-auto mb-4{
+    text-align: right;
+}
+
+/* Contact Bar */
+.fa-map-marker,.fa-envelope{
+    margin-right: 10px;
+    
+}
+.fa-phone{
+margin-right: 7px;
+}
+
+.footeredit {
+
+    margin-top: -250px;
+}
+/* .bgimage{
+	
+	background-size: 100% 110%;
+	width: 100%;
+	height: 100%;
+} */
+
+@media only screen and (min-width:720px) 
+   {
+.giftbanner{
+    display: block;
+          width: 100%;
+       }
+  
+.navbar-brand{
+    margin-left: 20px !important;
+}
+
+@media screen and (max-width: 650px) {
+    .upcomingproducts {
+      width: 100%;
+      display: block;
+    }
